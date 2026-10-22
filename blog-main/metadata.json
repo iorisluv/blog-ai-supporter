@@ -1,0 +1,6 @@
+{
+  "name": "GenAI Sinh Viên - Tối Ưu Năng Lực Học Tập & Làm Việc",
+  "description": "Nền tảng blog, hướng dẫn thực hành và lộ trình học tập cá nhân hóa về GenAI dành cho sinh viên đại học. Tích hợp thư viện prompt, diễn đàn trao đổi kinh nghiệm và AI Mentor tối ưu hiệu suất.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
