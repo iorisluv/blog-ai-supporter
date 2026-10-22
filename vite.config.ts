@@ -5,6 +5,7 @@ import {defineConfig} from 'vite';
 
 export default defineConfig(() => {
   return {
+    base: 'blog-ai-supporter/', 
     plugins: [react(), tailwindcss()],
     resolve: {
       alias: {
